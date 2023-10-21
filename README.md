@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Web Applications
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on any software technology
-- 📫 How to reach me : 
+- 📫 How to reach me : https://www.linkedin.com/in/akshay-kumar-gola/
 
 <!---
 AeyKeyZS/AeyKeyZS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
