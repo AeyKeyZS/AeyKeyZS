@@ -2,9 +2,6 @@
 - 👀 I’m interested in Deep Learning and Web Applications
 - 🌱 I’m currently learning and working on NLP and Generative AI
 - 💞️ I’m looking to collaborate on any software technology (literally any)
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/akshay-kumar-gola/)
-- ▶️ Subscribe to my YouTube : [Snippetzz](https://www.youtube.com/@amsnippetzz)
-- 🤵 Portfolio : [aeykey](https://aeykeyzs.github.io/)
 
 Learn through my cuerated notes:
 - 💬 [Generative AI](https://www.notion.so/cdf7b46cab40495e90fbabaa07cf5202?pvs=21)
