@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and working on NLP and Generative AI
 - 💞️ I’m looking to collaborate on any software technology (literally any)
 
-Learn through my cuerated notes:
+Learn through my curated notes:
 - 💬 [Generative AI](https://www.notion.so/cdf7b46cab40495e90fbabaa07cf5202?pvs=21)
 - 🤖 [Transformers](https://www.notion.so/7fcfb3836bf94467b19f47886da644bf?pvs=21)
 - 🔀 [Data Structure and Algorithm](https://www.notion.so/f198e8b4a5904a3b953684c4549b23d4?pvs=21)
